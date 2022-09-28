@@ -1,3 +1,4 @@
-from django.db import models
+from users.modelos import seguridad
+from users.modelos import personas
 
-# Create your models here.
+

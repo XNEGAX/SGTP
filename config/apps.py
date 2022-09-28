@@ -1,0 +1,3 @@
+CREATED_APPS = [
+    'users',
+]
