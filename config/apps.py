@@ -1,3 +1,0 @@
-CREATED_APPS = [
-    'users',
-]
